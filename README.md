@@ -19,7 +19,7 @@ commands such as
 * find
 
 # How to use SysConfig
-In order to use the tool all you need to do is download the SysConfig.cmd
-it . After downloading the source code , just click on SysConfig.cmd
-on GUI or go to command prompt , locate the path where you stored the 
+In order to use the tool all you need to do is to download the source code.
+After downloading the source code , just click on SysConfig.cmd
+in the folder (GUI) or go to command prompt , locate the path where you stored the 
 source code and type SysConfig.cmd or SysConfig.
