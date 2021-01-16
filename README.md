@@ -1,6 +1,6 @@
 # SysConfig
 SysConfig is a command line based System specs checker for Windows .
-it's written in batch file language .
+it's an open source project written in batch file language .
 
 # How it works 
 SysConfig gathers information about a computer's 
