@@ -1,5 +1,5 @@
 # SysConfig
-SysConfig is a command line for gathering intel about windows machine .
+SysConfig is a command line tool for gathering intel about windows machine .
 it's an open source project written in batch file language .
 
 # How it works 
